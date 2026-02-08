@@ -5,3 +5,9 @@ data/*
 # But keep sample files
 !instance/README.instance.txt
 !data/README.data.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
