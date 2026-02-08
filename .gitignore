@@ -1,0 +1,7 @@
+# Ignore everything in these folders
+instance/*
+data/*
+
+# But keep sample files
+!instance/README.instance.txt
+!data/README.data.txt
